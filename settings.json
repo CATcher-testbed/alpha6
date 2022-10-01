@@ -1,0 +1,9 @@
+
+{
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "alpha6",
+  "phaseTeamResponse": "alpha6-dev-response",
+  "phaseTesterResponse": "alpha6",
+  "phaseModeration": "alpha6-tutor-moderation"
+}
+    
